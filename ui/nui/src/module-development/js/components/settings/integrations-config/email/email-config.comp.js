@@ -1,0 +1,27 @@
+import React from 'react';
+import SettingsActions from '../../../../actions/dev-settings-actions.js';
+
+
+let EmailConfig = React.createClass({
+  render() {
+    const baseClass = this.props.baseClass;
+
+    return(
+      <div className="email-config">
+        <div className={`${baseClass}__title`}>
+          <span>{this.props.platformName} configuration</span>
+          <span
+            className={`icon-close link ${baseClass}__title__dismiss-btn`}
+            onClick={this.dismissdialog}></span>
+        </div>
+      </div>
+    )
+  },
+
+  dismissdialog() {
+    SettingsActions.hideIntegrationDialog();
+  }
+
+});
+
+export default EmailConfig;
