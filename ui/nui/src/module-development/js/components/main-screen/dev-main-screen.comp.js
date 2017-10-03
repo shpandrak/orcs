@@ -196,9 +196,6 @@ var DevMainScreen = React.createClass({
 
 			<div className="main-screen">
 
-          <Quotas
-              quotas={this.props.quotas}/>
-
           <div className="inside">
             <GeminiScrollbar>
               <Filters
