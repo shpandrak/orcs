@@ -37,4 +37,11 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    <!--<distributionManagement>
+    <repository>
+        <id>bintray-ocopea-central</id>
+        <name>ocopea-tools</name>
+        <url>https://api.bintray.com/maven/ocopea/central/utils/;publish=1</url>
+    </repository>
+</distributionManagement>-->
 </project>

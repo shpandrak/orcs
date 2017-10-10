@@ -18,6 +18,13 @@
         <module>dsb-web-api</module>
         <module>dsb-java-web-api</module>
     </modules>
+     <distributionManagement>
+    <repository>
+        <id>bintray-ocopea-central</id>
+        <name>ocopea-tools</name>
+        <url>https://api.bintray.com/maven/ocopea/central/dsb/;publish=1</url>
+    </repository>
+</distributionManagement>
 
 
 </project>

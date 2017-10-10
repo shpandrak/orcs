@@ -96,5 +96,12 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+        <id>bintray-ocopea-central</id>
+        <name>ocopea-tools</name>
+        <url>https://api.bintray.com/maven/ocopea/central/site/;publish=1</url>
+    </repository>
+</distributionManagement>
 </project>
 
