@@ -1,7 +1,7 @@
 package com.emc.ocopea.demo;
 
 import com.emc.microservice.bootstrap.AbstractSchemaBootstrap;
-import com.emc.ocopea.demo.k8s.K8SRunner;
+import com.emc.ocopea.demo.docker.DockerRunner;
 import com.emc.ocopea.devtools.checkstyle.NoJavadoc;
 import com.emc.ocopea.hub.HubMicroService;
 import com.emc.ocopea.hub.copy.ShpanCopyRepositoryMicroService;
@@ -32,7 +32,7 @@ public class OrcsDemoK8SDevRunner {
             System.setProperty("site_public-load-balancer", publicDNS);
         }
 
-        K8SRunner.runServices(
+        DockerRunner.runServices(
                 "orcs",
                 MapBuilder.<String, AbstractSchemaBootstrap>newHashMap()
                         .with("protection-db", new ProtectionRepositorySchema())
