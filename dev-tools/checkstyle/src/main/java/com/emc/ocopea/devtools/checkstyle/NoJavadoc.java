@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.ocopea.devtools.checkstyle;
 
 import java.lang.annotation.ElementType;
