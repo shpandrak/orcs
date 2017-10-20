@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.ocopea.hub.webapp;
 
 import com.emc.ocopea.hub.HubWebAppUtil;

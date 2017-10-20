@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 "use strict";
 
 var jiraTests = require('./jira_tests');
