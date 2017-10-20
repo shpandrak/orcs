@@ -11,6 +11,12 @@
     <modules>
         <module>checkstyle</module>
     </modules>
+    <parent>
+        <groupId>com.emc.ocopea.orcs</groupId>
+        <artifactId>orcs-parent</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </parent>
+	
     <build>
         <pluginManagement>
             <plugins>
