@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import Quota from './quota.comp.js';
 import Actions from '../../actions/dev-actions.js';

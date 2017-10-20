@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import UserHandler from './models/User/user-handler';
 import AppInstanceHandler from './models/AppInstance/appInstance-handler';
 import AppTemplateHandler from './models/AppTemplate/appTemplate-handler';

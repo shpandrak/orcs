@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Reflux from 'reflux';
 import JiraMockData from '../data/jiraMockData.js';
 import Config from '../../../module-production/js/config.js';

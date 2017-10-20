@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var jiraMockData = {
   "baseUrl": 'https://jira.cec.lab.emc.com:8443',
   "projectId": '10305',

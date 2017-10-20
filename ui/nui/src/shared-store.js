@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Reflux from 'reflux';
 import SharedActions from './shared-actions.js';
 import DevActions from './module-development/js/actions/dev-actions.js';

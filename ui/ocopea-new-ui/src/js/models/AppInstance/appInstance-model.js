@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import AppInstanceHandler from './appInstance-handler';
 import { Quota } from '../Quota/quota-model';
 import { AppTemplate } from '../AppTemplate/appTemplate-model';

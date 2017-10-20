@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import DataStore from '../../stores/data-store';
 import SavedImage from './savedImage-model';
 import mockSavedImages from './mock/mockSavedImages.json';

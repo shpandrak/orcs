@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import OpenIcon from '../../../assets/images/open-icon.svg';
 import Isvg from 'react-inlinesvg';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import DatePicker from 'react-date-picker';
 require('react-date-picker/base.css');

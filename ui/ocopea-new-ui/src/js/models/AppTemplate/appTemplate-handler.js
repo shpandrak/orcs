@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import appTemplateService from './appTemplate-service';
 import appTemplateApi from './appTemplate-api';
 import DataStore from '../../stores/data-store';

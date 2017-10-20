@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import ServiceSelect from './service-select.comp.js';
 import PlansList from './plans-list.comp.js';

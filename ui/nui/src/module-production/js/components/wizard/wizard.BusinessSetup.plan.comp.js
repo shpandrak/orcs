@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import ImgTier2 from '../../../assets/images/businessSetup/plan-img-tier2.png';
 import ImgBusinessCritical from '../../../assets/images/businessSetup/plan-img-business-critical.png';

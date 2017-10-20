@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Reflux from 'reflux';
 import Actions from './actions.js'
 import $ from 'jquery';

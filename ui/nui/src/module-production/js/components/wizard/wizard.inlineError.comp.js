@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import ImgError from '../../../assets/images/main-footer/inline-error.png';
 

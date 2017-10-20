@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import gridIcon from '../../../assets/images/filters/grid-icon.svg';
 import listIcon from '../../../assets/images/filters/list-icon.svg';

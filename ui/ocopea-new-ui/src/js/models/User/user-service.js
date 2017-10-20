@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import DataStore from '../../stores/data-store';
 import UiStore from '../../stores/ui-store';
 import { User } from '../../models/User/user-model';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import $ from 'jquery';
 import _ from 'lodash';
 import moment from 'moment';

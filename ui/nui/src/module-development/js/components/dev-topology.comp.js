@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import AppTopology from '../../../module-production/js/components/wizard/appTopology/appTopology.comp.js';
 import AppTopologyActions from '../../../module-production/js/actions/appTopologyActions.js';

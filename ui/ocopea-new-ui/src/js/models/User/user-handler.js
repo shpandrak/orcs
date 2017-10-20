@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import { autorun } from 'mobx';
 import userApi from './user-api';
 import userService from './user-service';

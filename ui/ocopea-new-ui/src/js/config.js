@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import DevTool, { configureDevtool } from 'mobx-react-devtools';
 
 // Any configurations are optional

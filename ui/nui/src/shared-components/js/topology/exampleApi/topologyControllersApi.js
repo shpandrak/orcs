@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 const size = {
   service: {width: 100, height: 100},
   dependency: {width: 100, height: 100}

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import Highcharts from 'highcharts';
 import DashboardStore from '../../stores/dashboard/_dashboard-main-store.js';

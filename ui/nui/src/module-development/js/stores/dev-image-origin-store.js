@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Reflux from 'reflux';
 import MockData from '../data/dashboard-mock-image-origin.js';
 import DevStore from './dev-store.js';

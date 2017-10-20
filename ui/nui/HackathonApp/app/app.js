@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 const Server = require('./server.js')
 const express = require('express');
 const port = (process.env.PORT || 8080)

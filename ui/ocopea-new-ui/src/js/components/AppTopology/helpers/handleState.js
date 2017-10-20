@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import dataStore from '../controllers/topology-data-controller.js';
 import { observable } from 'mobx';
 

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Location from './site-location-model';
 
 export class CopyProtocol {

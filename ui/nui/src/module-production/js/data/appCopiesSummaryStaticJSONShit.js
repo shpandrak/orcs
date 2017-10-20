@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var appCopiesSummaryStaticJSONShit = [
     {name:'Production', count:2},
     {name:'Test/Dev', count:0},

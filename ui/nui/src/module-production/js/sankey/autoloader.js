@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var MainStore = require('../stores/main-store.js');
 console.log()
 if(!window['googleLT_']){window['googleLT_']=(new Date()).getTime();}if (!window['google']) {

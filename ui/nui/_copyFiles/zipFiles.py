@@ -1,3 +1,4 @@
+# Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import os
 import shutil
 import zipfile

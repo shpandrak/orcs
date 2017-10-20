@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import DevNavigationOptions from '../../data/devNavigationOptions.js';
 import ApplicationIcon from '../../../assets/images/wizard/app-type.svg';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import { computed, action, autorun, observable } from 'mobx';
 import i18n from '../i18n.js';
 import { hashHistory } from 'react-router';

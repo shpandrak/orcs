@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /**
  * Add responsive identification class to body element
  * Use function setDocumentByDevice() to initiate

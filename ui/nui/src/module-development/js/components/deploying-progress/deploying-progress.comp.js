@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import DevActions from '../../actions/dev-actions.js';
 import DeployingProgressActions from '../../actions/deploying-progress-actions.js';

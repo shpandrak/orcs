@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var quotas = {
 	appQuota: 30,
 	infrastructureQuotas: [

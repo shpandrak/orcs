@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import { action, observable, autorun } from 'mobx';
 import UiStore from '../../stores/ui-store';
 import { AppTemplateConfigurationModel } from '../../models/AppTemplateConfiguration/appTemplate-configuration-model';

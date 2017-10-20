@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import { action, autorun, observable, computed, mobx } from 'mobx';
 import MockParsedData from '../mockData/topology-mock-parsed-data.json';
 import { Request } from '../../../../utils/transportLayer.js';

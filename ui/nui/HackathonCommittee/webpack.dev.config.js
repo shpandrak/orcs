@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var path              = require('path');
 var webpack           = require('webpack');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');

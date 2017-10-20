@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import Plan from './wizard.BusinessSetup.plan.comp.js';
 import BusinessContinuitySettings from '../../data/static-info/BusinessContinuitySettings.js';

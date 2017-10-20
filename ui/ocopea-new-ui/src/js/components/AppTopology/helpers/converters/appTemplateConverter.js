@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import _ from 'lodash';
 import uuid from 'uuid/v4';
 import componentTypes from '../../data/componentTypes.json';

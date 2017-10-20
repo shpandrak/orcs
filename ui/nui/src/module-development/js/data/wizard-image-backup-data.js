@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var date = new Date();
 var mockDate1 = date.setDate(date.getDate() + 1);
 var mockDate2 = date.setDate(date.getDate() + 2);

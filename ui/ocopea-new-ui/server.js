@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* eslint no-console: 0 */
 
 const path = require('path');

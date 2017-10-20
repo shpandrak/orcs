@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import ActiveMapMockImage from '../../../assets/images/dashboard/mock-map-card.png';
 import QuotaSummaryMockImage from '../../../assets/images/dashboard/mock-quota-summary.png';

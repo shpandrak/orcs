@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import { action, autorun, observable } from 'mobx';
 import componentTypes from '../data/componentTypes.json';
 import _ from 'lodash';

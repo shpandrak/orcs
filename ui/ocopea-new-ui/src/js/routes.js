@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import { Route, IndexRedirect } from 'react-router';
 import Locations from './locations.json';

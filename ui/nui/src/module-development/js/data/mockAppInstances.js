@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import moment from 'moment';
 var today = moment();
 var oneMonthAgo = moment().subtract(1, 'M');

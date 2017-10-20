@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import DevTopology from '../../../../module-development/js/components/dev-topology.comp.js';
 import ProdNavigationOptions from '../../data/prodNavigationOptions.js';

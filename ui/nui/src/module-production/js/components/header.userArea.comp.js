@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import UserImg from '../../assets/images/header/user.png';
 import NotificationsImg from '../../assets/images/header/notifications.png';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import LetsChatPreview from '../../assets/images/right-menu/app-previews/lets-chat-preview.jpg';
 import BucketsPreview from '../../assets/images/right-menu/app-previews/buckets-preview.png';

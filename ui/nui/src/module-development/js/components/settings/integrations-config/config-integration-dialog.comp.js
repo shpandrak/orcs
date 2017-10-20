@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import JiraConfig from './jira/jira-config.comp.js';
 import TrelloConfig from './trello/trello-config.comp.js';

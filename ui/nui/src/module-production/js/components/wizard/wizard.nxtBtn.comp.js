@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import ArrowRight from '../../../assets/images/main-footer/arrow-right-btn.png';
 import Store from '../../stores/main-store.js';

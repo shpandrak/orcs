@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import $ from 'jquery';
 import SharedActions from '../../../../../shared-actions.js';
 

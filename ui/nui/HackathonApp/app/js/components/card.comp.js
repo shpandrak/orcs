@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import MainScreen from './mainScreen.comp.js';
 import AddNewIdea from './addNewIdea.comp.js';

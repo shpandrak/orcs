@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 var futureYear = new Date().getFullYear() + 30;
 
 var CopyHistoryErrors = [

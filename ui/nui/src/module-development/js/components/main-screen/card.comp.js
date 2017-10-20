@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import MockImg from '../../../assets/images/main-screen-card/mock.png';
 import DateIcon from '../../../assets/images/main-screen-card/date-icon.svg';

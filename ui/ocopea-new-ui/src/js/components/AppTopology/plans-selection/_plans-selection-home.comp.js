@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import PlansSelection from './_plans-selection.comp.js';
 import componentTypes from '../data/componentTypes.json';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import SharedActions from '../../../../../shared-actions.js';
 import SiteConfigActions from '../../../actions/site-config-actions.js';

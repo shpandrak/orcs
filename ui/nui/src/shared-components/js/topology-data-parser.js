@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import Config from '../../module-production/js/config.js';
 import MockServiceImg from '../../module-production/assets/images/appTopology/service.png';
 import MockDependencyImg from '../../module-production/assets/images/appTopology/db.png';

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import PencilIcon from '../../../../assets/images/appTopology/pencil-icon.png';
 import SaveIcon from '../../../../assets/images/businessSetup/plan-img-tier2.png';

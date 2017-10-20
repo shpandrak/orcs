@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import React from 'react';
 import DevDashboardActions from '../../actions/dev-dashboard-actions.js';
 import TagsInput from './dialog.createImage.tags-input.comp.js';

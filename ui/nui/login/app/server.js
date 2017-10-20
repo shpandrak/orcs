@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 const path = require('path');
 const express = require('express');
 const fs = require('fs');
