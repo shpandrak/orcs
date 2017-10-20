@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /*Package restapi crb API
 
 Copy Service Broker provides a way to copy(store) data-stream associated with a copyId and retrieve data-stream for a given copyId
