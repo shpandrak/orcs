@@ -347,13 +347,13 @@
 
     <pluginRepositories>
         <!-- our public bintray repository-->
-        <pluginRepository>
-            <id>ocopea-dependencies</id>
+	<pluginRepository>
+            <id>bintray-ocopea-central</id>
             <name>bintray-plugins</name>
             <snapshots>
-                <enabled>false</enabled>
+                 <enabled>false</enabled>
             </snapshots>
-            <url>https://raw.githubusercontent.com/ocopea/artifactory/repository/</url>
+            <url>https://dl.bintray.com/ocopea/central</url>
         </pluginRepository>
         <pluginRepository>
             <id>central</id>
