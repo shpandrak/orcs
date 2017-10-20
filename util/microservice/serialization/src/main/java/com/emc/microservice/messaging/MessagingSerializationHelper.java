@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.microservice.messaging;
 
 import com.emc.microservice.serialization.SerializationManager;

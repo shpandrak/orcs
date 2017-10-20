@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: ReadFile.java 54885 2011-09-26 05:26:51Z nivenb $
  *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

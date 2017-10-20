@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: IntegerNativeQueryConverter.java 78679 2013-09-09 09:29:24Z liebea $
  *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

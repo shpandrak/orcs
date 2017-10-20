@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: CompressedObjectSerializer.java 89731 2014-08-21 18:23:44Z shresa $
  *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

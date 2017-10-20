@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 import com.emc.dpa.dev.DevResourceProvider;
 import com.emc.dpa.dev.manager.DevModeServiceManagerAPI;
 import com.emc.microservice.healthcheck.MicroServiceHealthCheckRegistry;

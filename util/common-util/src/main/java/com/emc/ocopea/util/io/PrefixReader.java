@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.ocopea.util.io;
 /**
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

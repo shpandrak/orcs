@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: TestSqlBuilder 10/25/2015 4:10 PM englee
 *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

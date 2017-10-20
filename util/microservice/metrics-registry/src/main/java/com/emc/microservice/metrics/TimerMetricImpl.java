@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: TimerMetric.java 90398 2014-09-21 10:28:46Z liebea $
  *
  * This computer code is copyright 2014 EMC Corporation

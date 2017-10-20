@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.jmsl.dev.datasource;
 
 import com.emc.jmsl.dev.RemoteH2DatasourceConfiguration;

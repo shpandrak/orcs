@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /*
  * $Id: Pair.java 67521 2012-12-14 18:11:37Z patele $
  *

@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: SqlQueryOrder 11/26/2015 2:24 PM englee
  *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

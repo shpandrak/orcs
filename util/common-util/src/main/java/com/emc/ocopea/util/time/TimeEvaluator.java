@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: TimeEvaluator.java 89620 2014-08-19 23:56:49Z nivenb $
  *
  * Copyright (c) 2002-2016 EMC Corporation All Rights Reserved

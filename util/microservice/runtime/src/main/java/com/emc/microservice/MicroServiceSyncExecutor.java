@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 package com.emc.microservice;
 
 import com.emc.microservice.blobstore.BlobStoreConfiguration;

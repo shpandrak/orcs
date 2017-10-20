@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /* $Id: ApolloUnitTestNativeQueryServiceImpl.java 77948 2013-08-16 16:39:00Z martiv6 $
  *
  * This computer code is copyright 2013 - 2016 EMC Corporation.

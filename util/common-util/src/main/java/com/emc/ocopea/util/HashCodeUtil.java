@@ -1,3 +1,4 @@
+// Copyright (c) [2017] Dell Inc. or its subsidiaries. All Rights Reserved.
 /*
  * $Id: HashCodeUtil.java 88678 2014-07-28 07:41:00Z liebea $
  *
