@@ -368,6 +368,12 @@
             </releases>
         </pluginRepository>
     </pluginRepositories>
+ <scm>
+        <url>https://github.com/ocopea/orcs</url>
+        <connection>scm:git:https://github.com/ocopea/orcs.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:ocopea/orcs.git</developerConnection>
+      <tag>HEAD</tag>
+  </scm>
 <distributionManagement>
     <repository>
         <id>bintray-ocopea-central</id>
