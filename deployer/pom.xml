@@ -22,6 +22,7 @@
         <module>orcs-docker-image</module>
         <module>test-scenarios</module>
         <module>single-jar</module>
+        <module>hackathon-docker-image</module>
     </modules>
 
 
