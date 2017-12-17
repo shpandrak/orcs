@@ -15,7 +15,7 @@
 
     <properties>
         <ocopea.site.version>${project.version}</ocopea.site.version>
-        <ocopea.ui.version>${project.version}</ocopea.ui.version>
+        <ocopea.ui.version>0.11</ocopea.ui.version>
         <ocopea.util.version>${project.version}</ocopea.util.version>
     </properties>
     <modules>

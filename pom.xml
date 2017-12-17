@@ -16,7 +16,6 @@
         <module>crb</module>
         <module>psb</module>
         <module>site</module>
-	    <module>ui</module>
         <module>hub</module>
         <module>shpan-crb</module>
         <module>deployer</module>
@@ -218,6 +217,12 @@
     </prerequisites>
 
     <profiles>
+	<profile>
+            <id>UI</id>
+            <modules>
+                <module>ui</module>
+            </modules>
+	</profile>
         <profile>
             <id>CI</id>
             <build>

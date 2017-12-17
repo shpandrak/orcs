@@ -14,7 +14,7 @@
         <ocopea.util.version>${project.version}</ocopea.util.version>
         <ocopea.site.version>${project.version}</ocopea.site.version>
         <ocopea.hub.version>${project.version}</ocopea.hub.version>
-        <ocopea.ui.version>${project.version}</ocopea.ui.version>
+        <ocopea.ui.version>0.11</ocopea.ui.version>
         <ocopea.shpancrb.version>${project.version}</ocopea.shpancrb.version>
     </properties>
     <modules>
