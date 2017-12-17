@@ -3,7 +3,9 @@ package com.emc.ocopea.demo;
 
 import com.emc.microservice.bootstrap.AbstractSchemaBootstrap;
 import com.emc.ocopea.demo.docker.DockerRunner;
+import com.emc.ocopea.demo.dsb.shpanblob.RemoteShpanBlobDsbMicroService;
 import com.emc.ocopea.devtools.checkstyle.NoJavadoc;
+import com.emc.ocopea.dsb.h2.RemoteH2DsbMicroService;
 import com.emc.ocopea.hub.HubMicroService;
 import com.emc.ocopea.hub.copy.ShpanCopyRepositoryMicroService;
 import com.emc.ocopea.hub.repository.HubRepositorySchema;
@@ -44,7 +46,10 @@ public class OrcsDemoK8SDevRunner {
                 new HubWebAppMicroService(),
                 new ProtectionMicroService(),
                 new SiteMicroService(),
-                new ShpanCopyRepositoryMicroService()
+                new ShpanCopyRepositoryMicroService(),
+                new RemoteShpanBlobDsbMicroService(),
+                new RemoteH2DsbMicroService()
+
         );
     }
 

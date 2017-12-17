@@ -41,22 +41,20 @@ public class SubmitIdeaResource implements SubmitIdeaWebAPI {
     public Collection<SubmittedIdea> list() {
         return hackathonIdeaService.list()
                 .stream()
-                /*
                 .map(i -> new SubmittedIdea(
                         i.getId(),
-                        "Michael Dell",
+			i.getName(),
                         i.getDescription(),
                         i.getDocName(),
                         i.getDocKey(),
                         i.getStatus(),
                         i.getVotes()))
-                */
                 .collect(Collectors.toList());
     }
 
     @Override
     public String version() {
-        return "\"" + getClass().getPackage().getImplementationVersion() + "\"";
+        return "\"1.16\"";
     }
 
     @Override

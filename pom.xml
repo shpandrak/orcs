@@ -19,6 +19,8 @@
         <module>hub</module>
         <module>shpan-crb</module>
         <module>deployer</module>
+        <module>remote-shpanblob-dsb</module>
+        <module>remote-h2-dsb</module>
     </modules>
 
 
@@ -206,6 +208,10 @@
                     <groupId>io.swagger</groupId>
                     <artifactId>swagger-codegen-maven-plugin</artifactId>
                     <version>2.2.4-OCOPEA</version>
+                    <configuration>
+                        <generateApiTests>false</generateApiTests>
+                        <generateModelTests>false</generateModelTests>
+                    </configuration>
                 </plugin>
 
             </plugins>
@@ -217,12 +223,12 @@
     </prerequisites>
 
     <profiles>
-	<profile>
+       <profile>
             <id>UI</id>
             <modules>
                 <module>ui</module>
             </modules>
-	</profile>
+        </profile>
         <profile>
             <id>CI</id>
             <build>

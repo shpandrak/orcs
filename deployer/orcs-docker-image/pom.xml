@@ -176,6 +176,17 @@
             <version>${project.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.emc.ocopea.orcs</groupId>
+            <artifactId>remote-h2-dsb-service</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.emc.ocopea.orcs</groupId>
+            <artifactId>remote-shpanblob-dsb-service</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
     </dependencies>
 </project>
 

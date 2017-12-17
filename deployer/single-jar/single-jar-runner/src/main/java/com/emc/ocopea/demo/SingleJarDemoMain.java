@@ -278,48 +278,11 @@ public class SingleJarDemoMain {
     }
 
     private static void createAppTemplates(ApiInvoker api) {
-        api.createAppTemplate(
-                new UICommandCreateAppTemplate(
-                        "hackathon",
-                        "1.0",
-                        "Hackathon Registration App",
-                        "hackathon-svc",
-                        Collections.singletonList(
-                                new UICreateApplicationServiceTemplate(
-                                        "hackathon-svc",
-                                        "ShpanPaaS",
-                                        "hackathon",
-                                        "java",
-                                        "1.0",
-                                        Collections.emptyMap(),
-                                        Collections.emptyMap(),
-                                        Arrays.asList(
-                                                new UICreateAppServiceExternalDependency(
-                                                        UICreateAppServiceExternalDependency.TypeEnum.DATABASE,
-                                                        "hackathon-db",
-                                                        "Hackathon ideas DB",
-                                                        Collections.singletonList(
-                                                                new UICreateAppServiceExternalDependencyProtocols(
-                                                                        "postgres",
-                                                                        "9.0",
-                                                                        null,
-                                                                        null))
-                                                ),
-                                                new UICreateAppServiceExternalDependency(
-                                                        UICreateAppServiceExternalDependency.TypeEnum.OBJECTSTORE,
-                                                        "hack-docs",
-                                                        "Hackathon document store",
-                                                        Collections.singletonList(
-                                                                new UICreateAppServiceExternalDependencyProtocols(
-                                                                        "s3",
-                                                                        null,
-                                                                        null,
-                                                                        null)))),
-                                        Collections.singletonList(8080),
-                                        8080,
-                                        "hackathon-api/html/nui/index.html"
-                                ))),
-                SingleJarDemoMain.class.getResourceAsStream("/hackathon.png"));
+        createHackathon(api, "hackathon", "Hackathon Registration App", "/hackathon.png");
+        createHackathon(api, "wordpress", "Wordpress content management", "/wordpress.png");
+        createHackathon(api, "lets chat", "Lets chat app", "/lets-chat.png");
+        createHackathon(api, "minecraft", "Minecraft", "/minecraft.png");
+        createHackathon(api, "buckets", "Buckets CMS", "/buckets.png");
 
         api.createAppTemplate(
                 new UICommandCreateAppTemplate(
@@ -716,6 +679,51 @@ public class SingleJarDemoMain {
                                     "hackathon-api/html")
                     )));
         }
+    }
+
+    private static void createHackathon(ApiInvoker api, String name, String description, String imagePath) {
+        api.createAppTemplate(
+                new UICommandCreateAppTemplate(
+                        name,
+                        "1.0",
+                        description,
+                        "hackathon-svc",
+                        Collections.singletonList(
+                                new UICreateApplicationServiceTemplate(
+                                        "hackathon-svc",
+                                        "ShpanPaaS",
+                                        "hackathon",
+                                        "java",
+                                        "1.0",
+                                        Collections.emptyMap(),
+                                        Collections.emptyMap(),
+                                        Arrays.asList(
+                                                new UICreateAppServiceExternalDependency(
+                                                        UICreateAppServiceExternalDependency.TypeEnum.DATABASE,
+                                                        "hackathon-db",
+                                                        "Hackathon ideas DB",
+                                                        Collections.singletonList(
+                                                                new UICreateAppServiceExternalDependencyProtocols(
+                                                                        "postgres",
+                                                                        "9.0",
+                                                                        null,
+                                                                        null))
+                                                ),
+                                                new UICreateAppServiceExternalDependency(
+                                                        UICreateAppServiceExternalDependency.TypeEnum.OBJECTSTORE,
+                                                        "hack-docs",
+                                                        "Hackathon document store",
+                                                        Collections.singletonList(
+                                                                new UICreateAppServiceExternalDependencyProtocols(
+                                                                        "s3",
+                                                                        null,
+                                                                        null,
+                                                                        null)))),
+                                        Collections.singletonList(8080),
+                                        8080,
+                                        "hackathon-api/html/nui/index.html"
+                                ))),
+                SingleJarDemoMain.class.getResourceAsStream(imagePath));
     }
 
     private static void prepareSite(

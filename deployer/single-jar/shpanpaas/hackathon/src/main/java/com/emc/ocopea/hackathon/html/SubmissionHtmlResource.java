@@ -79,10 +79,10 @@ public class SubmissionHtmlResource implements SubmissionHtmlWebApi {
         //Prepare a file object with file to return
         Response.ResponseBuilder response = Response.ok((StreamingOutput) outputStream ->
                 docsBlobStore.readBlob("DOCS", submittedIdea.getDocKey(), outputStream));
-        //Response.ResponseBuilder response = Response.ok((StreamingOutput) outputStream ->
-        //        IOUtils.copy(getClass().getResourceAsStream("/hodapp.jpg"), outputStream));
-        //Response.ResponseBuilder response = Response.ok((StreamingOutput) outputStream ->
-        //        IOUtils.copy(getClass().getResourceAsStream("/dell.jpg"), outputStream));
+        /*
+        Response.ResponseBuilder response = Response.ok((StreamingOutput) outputStream ->
+                IOUtils.copy(getClass().getResourceAsStream("/sauron.jpg"), outputStream));
+        */
         return response
                 .header("Content-Disposition", "attachment; filename=\"" + submittedIdea.getDocName() + "\"")
                 .build();
